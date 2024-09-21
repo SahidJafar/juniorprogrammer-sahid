@@ -1,0 +1,71 @@
+/* Body */
+body {
+    position: relative;
+    font-family: Helvetica;
+    font-size: 14px;
+}
+html,
+body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+/* Button */
+.button {
+    border-radius: 2px;
+}
+.button:hover {
+    background-color: #5cb85f;
+    color: black;
+}
+
+/* Color */
+.nav-bg {
+    background-color: #f1f3ff;
+}
+
+.darkblue {
+    background-color: #0d28a6;
+}
+
+.blue {
+    background-color: #cfd4ed;
+}
+
+.warning {
+    background: #f9cc00;
+}
+
+.danger {
+    background: #fa2c5a;
+}
+
+/* Font Style */
+h5.offcanvas-title.text-bold {
+    font-size: 14px;
+    font-weight: 700;
+}
+
+h1.text-bold {
+    font-size: 36px;
+    font-weight: 700;
+}
+
+h2.text-bold {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+h3.text-bold {
+    font-size: 16px;
+    font-weight: 700;
+}
+
+/* Header Section */
+.logo {
+    width: 100px;
+    height: 34px;
+}
+.a-style {
+    text-decoration: none;
+}
